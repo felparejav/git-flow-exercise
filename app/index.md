@@ -20,3 +20,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Candied Carrots](recipe/feb/Candied_Carrots.md)
 
 
+## Last-months-favorites
+
+### [John Lemon](writer/john-lemon.md)
+
+[Candied Carrots](recipe/feb/Candied_Carrots.md)
+
+
