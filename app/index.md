@@ -19,6 +19,11 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 [Candied Carrots](recipe/feb/Candied_Carrots.md)
 
-### [Madame Croque](writer/madame-croque.md) 
 
-[Chocolate Soup](recipe/jan/chocolate-soup.md)
+## Last-months-favorites
+
+### [John Lemon](writer/john-lemon.md)
+
+[Candied Carrots](recipe/feb/Candied_Carrots.md)
+
+
